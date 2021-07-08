@@ -1,0 +1,55 @@
+02032021 06:02:00 PM:INFO:******************Verify HOME Page Tile******************
+02032021 06:02:10 PM:INFO:******************HOME Page PASSED******************
+02032021 06:37:55 PM:INFO:******************Verify HOME Page Tile******************
+02032021 06:38:02 PM:INFO:******************HOME Page PASSED******************
+02032021 06:39:09 PM:INFO:******************Verify HOME Page Tile******************
+02032021 06:39:15 PM:INFO:******************HOME Page PASSED******************
+02032021 07:31:17 PM:INFO:******************Verify HOME Page Tile******************
+02032021 07:31:32 PM:INFO:******************HOME Page PASSED******************
+02032021 07:37:44 PM:INFO:******************Verify HOME Page Tile******************
+02032021 07:37:54 PM:INFO:******************HOME Page PASSED******************
+02042021 09:59:02 AM:ERROR:******************Login FAILED******************
+02042021 10:09:58 AM:ERROR:******************Login FAILED******************
+02042021 10:12:39 AM:ERROR:******************Login FAILED******************
+02042021 10:16:30 AM:INFO:******************LOGIN PASSED******************
+02042021 10:21:27 AM:INFO:******************LOGIN PASSED******************
+02042021 10:22:01 AM:INFO:****Logged out sucessfully*****
+02042021 11:00:10 AM:ERROR:******************Login FAILED******************
+02042021 11:00:11 AM:INFO:****Logged not out sucessfully*****
+02042021 11:02:31 AM:INFO:******************LOGIN PASSED******************
+02042021 11:02:31 AM:INFO:****Logged out sucessfully*****
+02042021 11:13:37 AM:INFO:******************LOGIN PASSED******************
+02042021 11:13:47 AM:INFO:****Logged out sucessfully*****
+02042021 11:16:50 AM:INFO:******************LOGIN PASSED******************
+02042021 11:16:56 AM:INFO:****Logged out sucessfully*****
+02042021 11:23:51 AM:INFO:******************LOGIN PASSED******************
+02042021 11:23:56 AM:INFO:****Logged out sucessfully*****
+02042021 11:40:19 AM:INFO:******************LOGIN PASSED******************
+02042021 11:40:24 AM:INFO:****Logged out sucessfully*****
+02042021 12:07:32 PM:INFO:******************LOGIN PASSED******************
+02042021 12:07:37 PM:INFO:****Logged out sucessfully*****
+02042021 12:11:35 PM:INFO:******************LOGIN PASSED******************
+02042021 12:11:40 PM:INFO:****Logged out sucessfully*****
+02042021 12:12:02 PM:ERROR:******************Login FAILED******************
+02042021 12:24:05 PM:INFO:*****PASSED******
+02042021 12:24:33 PM:INFO:*****PASSED******
+02042021 12:28:14 PM:INFO:*****PASSED******
+02042021 12:28:43 PM:INFO:*****PASSED******
+02042021 12:35:23 PM:INFO:*****PASSED******
+02042021 12:35:44 PM:INFO:*****PASSED******
+02042021 12:35:44 PM:INFO:******* DDT Login test passed **********
+02042021 12:35:44 PM:INFO:******* End of Login DDT Test **********
+02042021 12:35:44 PM:INFO:**************** Completed  TC_LoginDDT_002 ************* 
+02042021 12:42:24 PM:INFO:*****PASSED******
+02042021 12:42:45 PM:INFO:*****PASSED******
+02042021 12:42:45 PM:INFO:******* DDT Login test passed **********
+02042021 12:42:45 PM:INFO:******* End of Login DDT Test **********
+02042021 12:42:45 PM:INFO:**************** Completed  TC_LoginDDT_002 ************* 
+02042021 01:58:07 PM:INFO:*****PASSED******
+02042021 01:58:32 PM:INFO:*****PASSED******
+02042021 01:58:32 PM:INFO:******* DDT Login test passed **********
+02042021 01:58:32 PM:INFO:******* End of Login DDT Test **********
+02042021 01:58:32 PM:INFO:**************** Completed  TC_LoginDDT_002 ************* 
+02042021 02:09:03 PM:INFO:******************Verify HOME Page Tile******************
+02042021 02:09:14 PM:INFO:******************HOME Page PASSED******************
+02042021 02:10:01 PM:INFO:*****PASSED******
